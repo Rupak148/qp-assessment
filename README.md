@@ -27,10 +27,3 @@ This is a **Grocery Booking API** built with **Node.js** and **TypeScript** for 
 
 ---
 
-## How to Run the Project
-
-### Prerequisites
-1. **Node.js**: Install Node.js from [here](https://nodejs.org/).
-2. **TypeScript**: Install TypeScript globally:
-   ```bash
-   npm install -g typescript
